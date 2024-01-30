@@ -18,7 +18,7 @@
 
 ## Purpose
 
-Use machine learning (ML) with the other technologies we’ve learned to analyze different attributes of customers’ hotel booking details to create a model that can predict whether or not the booking will be canceled.
+Use machine learning (ML) with the other technologies to analyze different attributes of customers’ hotel booking details to create a model that can predict whether or not the booking will be canceled.
 
 ## Usage
 
